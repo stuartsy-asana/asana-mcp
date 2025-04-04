@@ -1,6 +1,6 @@
-# Remote MCP Server on Cloudflare
+# asana-mcp
 
-Let's get a remote MCP server up-and-running on Cloudflare Workers complete with OAuth login!
+This is a prototype of a remote MCP sever, acting as a middleware to the upstream Asana API provider.
 
 ## Develop locally
 
